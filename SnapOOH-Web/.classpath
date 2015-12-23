@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="C:/Users/designe102/Downloads/java-client-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/designe102/Downloads/selenium-2.48.2/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/designe102/Downloads/selenium-2.48.2/selenium-java-2.48.2-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/designe102/Downloads/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
